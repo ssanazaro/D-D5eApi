@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DD5eApi.Controllers.RacesController",
+    "Method": "Get",
+    "RelativePath": "Races",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "race",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

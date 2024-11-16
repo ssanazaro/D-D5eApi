@@ -1,0 +1,6 @@
+@DD5eApi_HostAddress = http://localhost:5258
+
+GET {{DD5eApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
